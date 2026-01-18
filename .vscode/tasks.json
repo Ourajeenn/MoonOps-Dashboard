@@ -1,0 +1,29 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Démarrer le serveur Vite",
+			"type": "shell",
+			"command": "npx vite --open",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Démarrer le serveur Vite",
+			"type": "shell",
+			"command": "npx vite --open",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		},
+		{
+			"label": "Redémarrer le serveur Vite",
+			"type": "shell",
+			"command": "npx vite --open",
+			"isBackground": true,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
